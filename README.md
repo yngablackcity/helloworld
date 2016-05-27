@@ -1,0 +1,2 @@
+# helloworld
+game->new->start
